@@ -1,5 +1,4 @@
 # Nagios-check_disk2
-alternative to check_disk nrpe plugin
+check_disk with a twist from nrpe plugin
 
-Simple shell script to manage disks check for both percent and absolute alerts threshold
- will make use of check_disk
+Simple shell script to manage disks check for both percent and absolute alerts threshold making use of check_disk
